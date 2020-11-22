@@ -42,7 +42,7 @@ namespace FormalLanguagesAutomate_task1
         public KeyValuePair<bool, int> Move(string inf, int offset)
         {
             Current = Start;
-            bool IsItState = false;
+            bool IsItCorrect = false;
 
             int Count = 0;
             int Index = offset;
@@ -51,7 +51,7 @@ namespace FormalLanguagesAutomate_task1
                 string s = inf[Index].ToString();
                 if (transitions.ContainsKey(new KeyValuePair<int, string>(Current, s)))
                 {
-                    IsItState = true;
+                    IsItCorrect = true;
                     Count++;
                     Current = transitions[new KeyValuePair<int, string>(Current, s)];
                     Index++;
@@ -63,11 +63,11 @@ namespace FormalLanguagesAutomate_task1
             }
             if (!Finish.Contains(Current))
             {
-                IsItState = false;
+                IsItCorrect = false;
                 Count = 0;
             }
 
-            return new KeyValuePair<bool, int>(IsItState, Count);
+            return new KeyValuePair<bool, int>(IsItCorrect, Count);
         }
 
 

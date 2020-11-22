@@ -735,11 +735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fourn\\source\\repos\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1.csproj",
+      "projectUniqueName": "C:\\Users\\fourn\\OneDrive\\Документы\\FormalLanguagesAutomate_\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1.csproj",
       "projectName": "FormalLanguagesAutomate_task1",
-      "projectPath": "C:\\Users\\fourn\\source\\repos\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1.csproj",
+      "projectPath": "C:\\Users\\fourn\\OneDrive\\Документы\\FormalLanguagesAutomate_\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1.csproj",
       "packagesPath": "C:\\Users\\fourn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fourn\\source\\repos\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1\\obj\\",
+      "outputPath": "C:\\Users\\fourn\\OneDrive\\Документы\\FormalLanguagesAutomate_\\FormalLanguagesAutomate_task1\\FormalLanguagesAutomate_task1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
