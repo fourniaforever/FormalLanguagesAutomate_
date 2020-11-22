@@ -1,0 +1,11 @@
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\bin\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.deps.json
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\bin\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.runtimeconfig.json
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\bin\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.runtimeconfig.dev.json
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\bin\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.dll
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\obj\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.csprojAssemblyReference.cache
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\obj\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.csproj.CoreCompileInputs.cache
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\obj\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.AssemblyInfoInputs.cache
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\obj\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.AssemblyInfo.cs
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\bin\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.pdb
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\obj\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.dll
+C:\Users\fourn\source\repos\FormalLanguagesAutomate_task2\FormalLanguagesAutomate_task2\obj\Debug\netcoreapp2.1\FormalLanguagesAutomate_task2.pdb

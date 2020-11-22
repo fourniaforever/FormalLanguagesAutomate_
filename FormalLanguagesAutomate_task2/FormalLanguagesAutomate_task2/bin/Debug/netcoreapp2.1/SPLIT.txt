@@ -1,0 +1,66 @@
+{
+  "Transitions": [
+    {
+      "Key": {
+        "Key": 1,
+        "Value": "\n"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 2,
+        "Value": "\n"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 1,
+        "Value": "\r"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 2,
+        "Value": "\r"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 1,
+        "Value": "\t"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 2,
+        "Value": "\t"
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 1,
+        "Value": " "
+      },
+      "Value": 2
+    },
+    {
+      "Key": {
+        "Key": 2,
+        "Value": " "
+      },
+      "Value": 2
+    }
+  ],
+  "Current": 0,
+  "Start": 1,
+  "Priority": 3,
+  "Finish": [
+    2
+  ]
+}
